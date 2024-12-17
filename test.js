@@ -1,2 +1,2 @@
 console.log("mauli")
-console.log("dudhat")~
+console.log("dudhat")
